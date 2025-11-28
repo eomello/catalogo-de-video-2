@@ -1,7 +1,7 @@
-body{
-color:rgb(255, 255, 255);
-background:rgb(0, 0, 0);
-font-family: "Momo Trust Display", sans-serif;
+body {
+color: white;
+background-color: black;
+font-family: "Faculty Glyphic", serif;
 }
 
 .chamada {
@@ -12,14 +12,15 @@ display: flex;
 justify-content: center;
 }
 
-.categoria{
+.categoria {
 padding-left: 20px;
 padding-right: 20px;
 }
 
 div {
-  margin-right: 20px;
+margin-right: 20px;
 }
+
 .chamada-texto {
 margin-right: 5%;
 margin-left: 5%;
