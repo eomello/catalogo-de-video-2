@@ -1,11 +1,11 @@
 body {
-color: white;
+color: rgb(0, 0, 0);
 background-color: black;
 font-family: "Faculty Glyphic", serif;
 }
 
 .chamada {
-background: rgb(214, 123, 232);
+background: rgb(255, 255, 255);
 padding-bottom: 80px;
 padding-top: 80px;
 display: flex;
