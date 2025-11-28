@@ -4,16 +4,15 @@ background:rgb(0, 0, 0);
 font-family: "Momo Trust Display", sans-serif;
 }
 
-
 chamada {
- background blue
+ background: rgb(127, 127, 181);
 padding-bottom: 80px;
 padding-top: 80px;
 display: flex: ;
 justify-context center;
 }
 
-.categoria{
+categoria{
 padding-left: 20px;
 padding-right: 20px;
 }
